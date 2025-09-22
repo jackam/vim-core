@@ -21,7 +21,7 @@ Plug 'embark-theme/vim', { 'as': 'embark', 'branch': 'main' }
 
 call plug#end()
 
-let mapleader = " "
+let mapleader = "\\"
 let g:NERDTreeShowHidden = 1
 
 " UI action { " buffer control
